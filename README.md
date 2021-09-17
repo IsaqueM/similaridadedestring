@@ -1,0 +1,2 @@
+# similaridadedestring
+Buscando similaridade 
